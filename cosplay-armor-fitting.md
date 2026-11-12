@@ -1,3 +1,5 @@
+**[Open the mobile-friendly cosplay fit guide](https://woldemor31-byte.github.io/3d-print-workflow-guide/#armor)**
+
 # Planning 3D-printed cosplay armor that fits
 
 A digital model may look right on screen yet need adjustments for movement, clothing and assembly. Use this checklist before committing to a large print.
