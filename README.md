@@ -1,3 +1,5 @@
+**[Open the mobile-friendly 3D printing and cosplay guide](https://woldemor31-byte.github.io/3d-print-workflow-guide/)**
+
 # How to split a 3D model for printing in Blender
 
 Large models often need to be divided into smaller parts, with pins and sockets to help align them after printing. This guide gives you a preparation checklist and links to both free and paid tools.
